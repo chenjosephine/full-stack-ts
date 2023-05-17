@@ -34,6 +34,20 @@
       "createdAt": "2022-03-23T03:55:59.614Z",
       "updatedAt": "2022-03-23T03:55:59.614Z",
       "id": "tweet-1220baa2-2092-4ed8-a72c-91757dc508f7"
+    },
+    {
+      "message": "safsdf",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2023-05-17T22:17:13.972Z",
+      "updatedAt": "2023-05-17T22:17:13.972Z",
+      "id": "tweet-484026b9-e067-4e71-bc71-b2c17fe1aec6"
+    },
+    {
+      "message": "asd",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2023-05-17T22:18:32.591Z",
+      "updatedAt": "2023-05-17T22:18:32.591Z",
+      "id": "tweet-9d78f612-f505-4aca-b3ab-5d68d9e8d23a"
     }
   ],
   "users": [
@@ -146,6 +160,13 @@
       "createdAt": "2022-03-23T03:55:59.617Z",
       "updatedAt": "2022-03-23T03:55:59.617Z",
       "id": "favorite-a4e781ad-1c7b-4e62-b9dd-66b4e36e390b"
+    },
+    {
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "tweetId": "tweet-484026b9-e067-4e71-bc71-b2c17fe1aec6",
+      "createdAt": "2023-05-17T23:06:18.468Z",
+      "updatedAt": "2023-05-17T23:06:18.468Z",
+      "id": "favorite-5004dc4c-57c1-41f4-90a2-540bcd517db8"
     }
   ],
   "hashtagTrends": [
